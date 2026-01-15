@@ -11,13 +11,13 @@ export default function Certifications() {
           {/* CERTIFICATION 1 */}
           <li className="blog-post-item">
             <a
-              href="/assets/images/IBM_ANSHIKA_page-0001.jpg"
+              href="./assets/images/IBM_ANSHIKA_page-0001.jpg"
               target="_blank"
               rel="noreferrer"
             >
               <figure className="blog-banner-box">
                 <img
-                  src="/assets/images/IBM_ANSHIKA_page-0001.jpg"
+                  src="./assets/images/IBM_ANSHIKA_page-0001.jpg"
                   alt="IBM SkillsBuild AI & Cloud"
                   loading="lazy"
                 />
@@ -46,13 +46,13 @@ export default function Certifications() {
           {/* CERTIFICATION 2 */}
           <li className="blog-post-item">
             <a
-              href="/assets/images/pythoncer.jpg"
+              href="./assets/images/pythoncer.jpg"
               target="_blank"
               rel="noreferrer"
             >
               <figure className="blog-banner-box">
                 <img
-                  src="/assets/images/pythoncer.jpg"
+                  src="./assets/images/pythoncer.jpg"
                   alt="NPTEL Python for Data Science"
                   loading="lazy"
                 />
@@ -80,13 +80,13 @@ export default function Certifications() {
           {/* CERTIFICATION 3 */}
           <li className="blog-post-item">
             <a
-              href="/assets/images/Personality_development_page-0001.jpg"
+              href="./assets/images/Personality_development_page-0001.jpg"
               target="_blank"
               rel="noreferrer"
             >
               <figure className="blog-banner-box">
                 <img
-                  src="/assets/images/Personality_development_page-0001.jpg"
+                  src="./assets/images/Personality_development_page-0001.jpg"
                   alt="Personality Development"
                   loading="lazy"
                 />
@@ -116,7 +116,7 @@ export default function Certifications() {
             <a href="#">
               <figure className="blog-banner-box">
                 <img
-                  src="/assets/images/microsoft.png"
+                  src="./assets/images/microsoft.png"
                   alt="Microsoft Azure"
                   loading="lazy"
                 />
@@ -146,7 +146,7 @@ export default function Certifications() {
             <a href="#">
               <figure className="blog-banner-box">
                 <img
-                  src="/assets/images/microsoft.png"
+                  src="./assets/images/microsoft.png"
                   alt="Microsoft Power BI"
                   loading="lazy"
                 />

@@ -49,7 +49,7 @@ export default function About() {
 
           <li className="service-item">
             <div className="service-icon-box">
-              <img src="/assets/images/icon-dev.svg" alt="Web development icon" width="40" />
+              <img src="./assets/images/icon-dev.svg" alt="Web development icon" width="40" />
             </div>
             <div className="service-content-box">
               <h4 className="h4 service-item-title">Web development</h4>
@@ -62,7 +62,7 @@ export default function About() {
 
           <li className="service-item">
             <div className="service-icon-box">
-              <img src="/assets/images/icon-app.svg" alt="Backend icon" width="40" />
+              <img src="./assets/images/icon-app.svg" alt="Backend icon" width="40" />
             </div>
             <div className="service-content-box">
               <h4 className="h4 service-item-title">Python & Flask</h4>
@@ -75,7 +75,7 @@ export default function About() {
 
           <li className="service-item">
             <div className="service-icon-box">
-              <img src="/assets/images/icon-design.svg" alt="database icon" width="40" />
+              <img src="./assets/images/icon-design.svg" alt="database icon" width="40" />
             </div>
             <div className="service-content-box">
               <h4 className="h4 service-item-title">Databases & SQL</h4>
@@ -88,7 +88,7 @@ export default function About() {
 
           <li className="service-item">
             <div className="service-icon-box">
-              <img src="/assets/images/icon-photo.svg" alt="cloud icon" width="40" />
+              <img src="./assets/images/icon-photo.svg" alt="cloud icon" width="40" />
             </div>
             <div className="service-content-box">
               <h4 className="h4 service-item-title">Cloud & deployment</h4>
@@ -111,7 +111,7 @@ export default function About() {
           <li className="testimonials-item">
             <div className="content-card">
               <figure className="testimonials-avatar-box">
-                <img src="/assets/images/avatar-3.png" alt="Problem solving" width="60" />
+                <img src="./assets/images/avatar-3.png" alt="Problem solving" width="60" />
               </figure>
               <h4 className="h4 testimonials-item-title">Problem solving</h4>
               <div className="testimonials-text">
@@ -127,7 +127,7 @@ export default function About() {
           <li className="testimonials-item">
             <div className="content-card">
               <figure className="testimonials-avatar-box">
-                <img src="/assets/images/avatar-2.png" alt="Consistency" width="60" />
+                <img src="./assets/images/avatar-2.png" alt="Consistency" width="60" />
               </figure>
               <h4 className="h4 testimonials-item-title">Consistency & discipline</h4>
               <div className="testimonials-text">
@@ -142,7 +142,7 @@ export default function About() {
           <li className="testimonials-item">
             <div className="content-card">
               <figure className="testimonials-avatar-box">
-                <img src="/assets/images/avatar-3.png" alt="Self learner" width="60" />
+                <img src="./assets/images/avatar-3.png" alt="Self learner" width="60" />
               </figure>
               <h4 className="h4 testimonials-item-title">Self-motivated learner</h4>
               <div className="testimonials-text">
@@ -157,7 +157,7 @@ export default function About() {
           <li className="testimonials-item">
             <div className="content-card">
               <figure className="testimonials-avatar-box">
-                <img src="/assets/images/avatar-2.png" alt="Teamwork" width="60" />
+                <img src="./assets/images/avatar-2.png" alt="Teamwork" width="60" />
               </figure>
               <h4 className="h4 testimonials-item-title">Teamwork</h4>
               <div className="testimonials-text">
@@ -177,12 +177,12 @@ export default function About() {
         <h3 className="h3 clients-title">Tools & technologies</h3>
 
         <ul className="clients-list has-scrollbar">
-          <li className="clients-item"><img src="/assets/images/ibm.jpg" alt="IBM" /></li>
-          <li className="clients-item"><img src="/assets/images/microsoft.png" alt="Microsoft" /></li>
-          <li className="clients-item"><img src="/assets/images/nptel.png" alt="NPTEL" /></li>
-          <li className="clients-item"><img src="/assets/images/python.webp" alt="Python" /></li>
-          <li className="clients-item"><img src="/assets/images/cloud.jpg" alt="Cloud" /></li>
-          <li className="clients-item"><img src="/assets/images/react.png" alt="React" /></li>
+          <li className="clients-item"><img src="./assets/images/ibm.jpg" alt="IBM" /></li>
+          <li className="clients-item"><img src="./assets/images/microsoft.png" alt="Microsoft" /></li>
+          <li className="clients-item"><img src="./assets/images/nptel.png" alt="NPTEL" /></li>
+          <li className="clients-item"><img src="./assets/images/python.webp" alt="Python" /></li>
+          <li className="clients-item"><img src="./assets/images/cloud.jpg" alt="Cloud" /></li>
+          <li className="clients-item"><img src="./assets/images/react.png" alt="React" /></li>
         </ul>
       </section>
 </article>
