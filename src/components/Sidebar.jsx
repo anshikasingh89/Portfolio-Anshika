@@ -12,7 +12,7 @@ const Sidebar = () => {
 
         <figure className="avatar-box">
           <img
-         src="/assets/images/profile.jpeg"
+         src="./assets/images/profile.png"
          alt="Anshika Singh"
          width="80"
         />

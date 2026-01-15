@@ -54,7 +54,7 @@ export default function About() {
             <div className="service-content-box">
               <h4 className="h4 service-item-title">Web development</h4>
               <p className="service-item-text">
-                Building small, responsive web apps using HTML, CSS and Flask,
+                Building small, responsive web apps using ReactJS, HTML, CSS and Flask,
                 focusing on clarity, usability and simple design.
               </p>
             </div>
