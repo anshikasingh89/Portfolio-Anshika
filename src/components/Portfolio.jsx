@@ -4,6 +4,22 @@ export default function Portfolio() {
   const [activeFilter, setActiveFilter] = useState("All");
 
   const projects = [
+     
+    {
+      title: "Sales Power BI Dashboard",
+      category: "Applications",
+      tech: "Power bi· DAX query · SQL ",
+      img: "./assets/images/Salesdashboard.png",
+      link: "https://drive.google.com/file/d/1xc7jfPneyg4dTCQOOz-DWyjr3yWm5x6j/preview",
+    },
+    {
+      title: "Traffic management Dashboard",
+      category: "Applications",
+      tech: "Python· HTML· SQL· JS· CSS",
+      img: "./assets/images/trafficdashboard.jpeg",
+      link: "https://drive.google.com/file/d/1FzxessDzVqcbPeUP055DeUChJAEkAkOY/preview",
+    },
+    
     {
       title: "MBTI Personality Tester",
       category: "Applications",
@@ -23,7 +39,7 @@ export default function Portfolio() {
       category: "Web development",
       tech: "ReactJS, CSS.",
       img: "./assets/images/project-3.png",
-      link: "#",
+      link: "https://anshikasingh89.github.io/Portfolio-Anshika/",
     },
     {
       title: "Upcoming Application",

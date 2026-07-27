@@ -7,38 +7,40 @@ export default function About() {
   </header>
 
   <section className="about-text">
+<p>
+    I am <strong>Anshika Singh</strong> with a strong interest
+    in Data Analytics, Business Intelligence, Cloud Computing, and
+    Artificial Intelligence. I enjoy transforming raw data into meaningful
+    insights that help solve real-world problems and support better decision-making.
+  </p>
 
     <p>
-      I am <strong>Anshika Singh</strong>, an MCA student at
-      Devi Ahilya Vishwavidyalaya (DAVV), Indore, with a strong interest
-      in software development, cloud computing, and AI/ML.
-      I enjoy building practical, user-focused projects that connect
-      theoretical concepts with real-world use cases.
+       I work with technologies including Python, SQL, Power BI, Microsoft Excel,
+    Flask, HTML, CSS, Java, C, C++, and DBMS. Through academic projects and
+    internships, I have developed skills in data analysis, data visualization,
+    dashboard creation, and machine learning. My projects include an intelligent
+    skincare recommendation system using machine learning and an MBTI-based
+    personality assessment web application.
     </p>
 
     <p>
-      I work with technologies such as Python, Flask, HTML, CSS, Java,
-      C, C++, SQL, and DBMS. My projects include an MBTI-based personality
-      tester web application and an intelligent skincare recommendation
-      system using machine learning. I like breaking down problems into
-      smaller parts and designing clean, understandable solutions.
+      I am a fast learner, self-motivated, punctual, and detail-oriented. I enjoy
+    analyzing complex problems, identifying patterns in data, and presenting
+    insights in a clear and meaningful way. I am comfortable working both
+    independently and collaboratively, and I value continuous learning and
+    effective communication.
     </p>
 
     <p>
-      My strengths include being a fast learner, punctual, self-motivated,
-      and consistent. I value honest and clear communication and am
-      comfortable working both independently and in a team. My goal is
-      to start my career as a software engineer where I can work on
-      backend, cloud, or ML-related projects and continuously improve
-      my skills.
-    </p>
+         My goal is to begin my career as a <strong>Data Analyst</strong>, where I can
+    apply analytical thinking, SQL, Python, Excel, and visualization tools to
+    solve business problems, support data-driven decisions, and continue growing
+    my skills in analytics and cloud technologies.
 
-    <p>
-      Outside academics, I enjoy writing, reading, and sketching
-      characters, which helps me stay creative and observant. I also
-      like playing volleyball and badminton, which keeps me active and
-      team-oriented.
     </p>
+    <p>Outside academics, I enjoy writing, reading, sketching characters,
+    playing volleyball, and badminton. These activities help me stay creative,
+    disciplined, and maintain a balanced approach to learning and teamwork.</p>
 
   </section>
   {/* WHAT I'M DOING */}
@@ -52,10 +54,9 @@ export default function About() {
               <img src="./assets/images/icon-dev.svg" alt="Web development icon" width="40" />
             </div>
             <div className="service-content-box">
-              <h4 className="h4 service-item-title">Web development</h4>
+              <h4 className="h4 service-item-title">Data Analytics</h4>
               <p className="service-item-text">
-                Building small, responsive web apps using ReactJS, HTML, CSS and Flask,
-                focusing on clarity, usability and simple design.
+                Analyzing datasets using SQL, Python, Excel and Power BI to uncover insights, identify trends and support data-driven decision making.
               </p>
             </div>
           </li>
@@ -65,10 +66,9 @@ export default function About() {
               <img src="./assets/images/icon-app.svg" alt="Backend icon" width="40" />
             </div>
             <div className="service-content-box">
-              <h4 className="h4 service-item-title">Python & Flask</h4>
+              <h4 className="h4 service-item-title">Python for Data Analytics </h4>
               <p className="service-item-text">
-                Developing backend logic, APIs and form handling in Python Flask for
-                projects like MBTI tester and skincare recommendation system.
+               Using Python with Pandas, NumPy and Matplotlib to clean data, perform analysis, automate tasks and build analytical solutions.
               </p>
             </div>
           </li>

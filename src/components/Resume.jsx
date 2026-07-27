@@ -23,9 +23,9 @@ export default function Resume() {
             <h4 className="h4 timeline-item-title">
               Master of Computer Applications (MCA), DAVV Indore
             </h4>
-            <span>2024 — 2026 (Pursuing)</span>
+            <span>2024 — 2026 </span>
             <p className="timeline-text">
-              Currently pursuing MCA at Devi Ahilya Vishwavidyalaya (DAVV), Indore, with
+             MCA from Devi Ahilya Vishwavidyalaya (DAVV), Indore, with 78.2% percentage and
               coursework in programming, data structures, DBMS, operating systems, AI and cloud.
             </p>
           </li>
@@ -36,7 +36,7 @@ export default function Resume() {
             </h4>
             <span>2021 — 2024</span>
             <p className="timeline-text">
-              Completed B.Sc. from I.P.S. Academy, affiliated to DAVV, Indore. Graduated with
+              Completed B.Sc. from I.P.S. Academy, affiliated to DAVV, Indore. Graduated with 80.05% percentage.
               First Division with Distinction, building a strong base in core subjects and
               programming fundamentals.
             </p>
@@ -59,18 +59,25 @@ export default function Resume() {
 
           <li className="timeline-item">
             <h4 className="h4 timeline-item-title">
-              AI Intern (Azure, Power BI & Copilot) — Microsoft Elevate (AICTE)
+              AI Intern - Azure — Microsoft Elevate (AICTE)
             </h4>
-            <span>Ongoing — 4 Weeks</span>
+            <span>DEC - JAN 2026 — 4 Weeks</span>
             <p className="timeline-text">
-              Currently selected for the Microsoft Elevate – AICTE 4-Week Internship Program,
-              focused on Artificial Intelligence and cloud-based tools. Gaining hands-on
-              exposure to Microsoft Azure services, Power BI for data visualization, and
-              Microsoft Copilot for AI-assisted productivity through guided learning modules
-              and practical exercises.
+              Completed hands-on training on Microsoft Azure, gaining practical understanding of cloud computing concepts and services. Worked with core Azure components such as virtual machines, storage, and resource management, and learned how cloud-based solutions are designed, deployed, and monitored. Developed a strong foundation in cloud architecture, scalability, and security concepts.
             </p>
           </li>
 
+          
+
+          <li className="timeline-item">
+            <h4 className="h4 timeline-item-title">
+              POWER BI — Microsoft Elevate (AICTE)
+            </h4>
+            <span>DEC - JAN 2026 — 4 Weeks</span>
+            <p className="timeline-text">
+              Completed a hands-on Power BI internship through Microsoft Elevate, where I built interactive dashboards and reports using real datasets. Worked with data cleaning, transformation, and DAX queries to analyze business metrics such as sales, profit, and performance trends. Gained practical experience in creating visually clear, insight-driven dashboards to support data-based decision making.
+            </p>
+          </li>
           <li className="timeline-item">
             <h4 className="h4 timeline-item-title">
               AI & Cloud Virtual Internship — IBM SkillsBuild & Edunet Foundation (AICTE)
@@ -81,19 +88,6 @@ export default function Resume() {
               Artificial Intelligence and Cloud Computing using IBM SkillsBuild and IBM Cloud.
               Worked on guided modules, case studies and hands-on tasks related to AI concepts
               and cloud adoption.
-            </p>
-          </li>
-
-          <li className="timeline-item">
-            <h4 className="h4 timeline-item-title">
-              Fresher — Academic & personal projects
-            </h4>
-            <span>Ongoing</span>
-            <p className="timeline-text">
-              Apart from the internship, I do not have formal industry work experience yet.
-              I have focused on academic and self-driven projects such as an MBTI-based
-              personality tester web app and a skincare recommendation system using machine
-              learning, React js and Flask, while actively practicing coding and learning new topics.
             </p>
           </li>
 
@@ -111,6 +105,24 @@ export default function Resume() {
         </div>
 
         <ol className="timeline-list">
+           <li className="timeline-item">
+            <h4 className="h4 timeline-item-title">
+              POWER BI - MICROSOFT ELEVATE INTERNSHIP
+            </h4>
+            <span>Dec — Jan 2026</span>
+            <p className="timeline-text">
+              Built interactive Power BI dashboards during the Microsoft Elevate internship using DAX queries and data modeling to analyze business performance and trends.
+            </p>
+          </li>
+          <li className="timeline-item">
+            <h4 className="h4 timeline-item-title">
+               AZURE - MICROSOFT ELEVATE INTERNSHIP
+            </h4>
+            <span>Dec — Jan 2026</span>
+            <p className="timeline-text">
+              Gained hands-on experience with Microsoft Azure, learning core cloud services, resource management, and deployment concepts.
+            </p>
+          </li>
 
           <li className="timeline-item">
             <h4 className="h4 timeline-item-title">
@@ -189,12 +201,12 @@ export default function Resume() {
         <ul className="skills-list content-card">
 
           {[
-            ["HTML & CSS", "80%"],
-            ["Java", "70%"],
-            ["React js", "70%"],
+            ["SQL", "90%"],
+            ["PYTHON", "85%"],
+            ["POWER BI", "90%"],
             ["C / C++", "75%"],
-            ["Python & Flask", "70%"],
-            ["SQL & DBMS", "75%"],
+            ["Python,DJANGO,FLASK", "70%"],
+            ["PANDAS & NUMPY", "85%"],
             ["Git & GitHub", "65%"],
             ["Problem solving & DSA", "60%"],
             ["Cloud & ML basics", "80%"],
